@@ -59,8 +59,6 @@ LoanDefaulterApp/
 
 ---
 
-## Tableau Insights
-
 ### Model Performance Dashboard
 
 ![Loan Default Prediction Dashboard](images/dashboard_preview.png)
